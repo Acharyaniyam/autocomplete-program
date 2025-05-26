@@ -4,7 +4,7 @@ Data structures project: Autocomplete system in C with custom sorting and search
 # Autocomplete Program in C
 
 ## Overview
-This project is an autocomplete program implemented in C as part of the CS260 Data Structures course. The program provides query suggestions based on a knowledge base of words and their associated frequencies. Given a list of incomplete queries, the program returns the most frequently encountered words that match the initial characters of each query, similar to autocomplete features in search engines and messaging applications.
+This project is an autocomplete program implemented in C as part of the CS260 Data Structures course. The program provides query suggestions based on a knowledge base of words and their associated frequencies. Given a list of incomplete queries, the program returns the most frequently encountered words that match the initial characters of each query, similar to autocomplete features in search engines and messaging applications,
 
 ## Features
 The program includes the following features:
